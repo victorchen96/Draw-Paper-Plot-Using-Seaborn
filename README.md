@@ -18,5 +18,5 @@ Some examples for drawing illustration plots for paper using [Seaborn](https://s
 
 ![multiplot2](https://github.com/victorchen96/Draw-Paper-Plot-Using-Seaborn/blob/master/example/multiplot2.png "multiplot2")
 
-## Related Work
-The related papers is [Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View](https://arxiv.org/abs/1909.03211). More plots can be found in the paper.
+## Related Paper
+The related paper is [Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View](https://arxiv.org/abs/1909.03211). More plots can be found in the paper.
